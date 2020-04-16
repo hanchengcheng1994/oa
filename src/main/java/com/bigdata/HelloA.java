@@ -6,7 +6,9 @@ public class HelloA {
 		System.out.println ("说点什么好呢");
 		System.out.println ("说点什么好呢2");
 		System.out.println ("说点什么好呢3");
+
 		System.out.println ("1111");
+
 	}
 	
 }
